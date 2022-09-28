@@ -1,0 +1,31 @@
+.heading{
+    font-size: 48px
+    }
+    .image{
+       text-align: center;
+    }
+    .home {
+        background-color: lavenderblush;
+    }
+    .page1 {
+        background-color: darksalmon;
+    }
+    .page2 {
+        background-color: cornflowerblue;
+    }
+    .page3 {
+        background-color: lightcyan;
+    
+    }
+    .page4 {
+        background-color: mistyrose;
+    
+    }
+    .page5 {
+        background-color: powderblue;
+    
+    }
+    td {
+        color:midnightblue
+    }
+   
